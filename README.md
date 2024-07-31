@@ -2,7 +2,7 @@
 
 ## 🛠️ Мои харды-скилы
 
-<div>
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="Html" alt="Html" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="Css" alt="Css" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="40" height="40"/>&nbsp;
@@ -33,7 +33,7 @@
 ---
 
 ## 🕶️ Написать или посмотреть
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://t.me/dmt_tmf">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Телеграм"/>
   </a>
@@ -42,9 +42,6 @@
   </a>
   <a href="https://vk.com/dubslut">
     <img src="https://img.shields.io/badge/Vk-blue?logo=vk&logoColor=white&style=for-the-badge" alt="ВК"/>
-  </a>
-  <a href="dimadimajob@yandex.ru">
-    <img src="https://img.shields.io/badge/email-red?logo=yandex&logoColor=white&style=for-the-badge" alt="Яндекс"/>
   </a>
 </div>
 
