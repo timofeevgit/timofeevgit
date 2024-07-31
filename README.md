@@ -1,6 +1,8 @@
+<div align="center">
 ## Привет, это Тимофеев. Фронтенд-разработчик из Санкт-Петербурга 👋
+</div>
 
-### 🛠️ Мои харды-скилы
+<div align="center">### 🛠️ Мои харды-скилы</div>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="Html" alt="Html" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="Css" alt="Css" width="40" height="40"/>&nbsp;
@@ -31,7 +33,7 @@
 
 ---
 
-### 🕶️ Написать или посмотреть
+<div align="center">### 🕶️ Написать или посмотреть</div>
 <div id="badges">
   <a href="https://t.me/dmt_tmf">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Телеграм"/>
@@ -49,7 +51,7 @@
 
 ---
 
-### 👨‍🔬: Обо мне:
+<div align="center">### 👨‍🔬: Обо мне:</div>
 ⚛️ Делаю интерфейсы на React
 🖥️ Люблю то, что делаю, и делаю это хорошо
 🗺️ Ищу и нахожу способы стать экспертнее
